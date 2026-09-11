@@ -8,9 +8,9 @@ Document Mitra is a simple, mobile-friendly portal that provides easy access to 
 
 - **Aadhaar Support**: Information about obtaining, updating, and downloading e-Aadhaar
 - **PAN Services**: Guide to applying for and managing PAN
-- **Income Certificate**: Details about applying for income certificates
-- **Caste Certificate**: Information about obtaining caste certificates
-- **Domicile/Residence Certificate**: Guide for domicile certificate applications
+- **Income Certificate**: Details about applying for income certificates via Maharashtra Aaple Sarkar
+- **Caste Certificate**: Information about obtaining caste certificates via Maharashtra Aaple Sarkar
+- **Domicile/Residence Certificate**: Guide for domicile certificate applications via Maharashtra Aaple Sarkar
 - **Official Links**: Direct links to all official government portals
 - **Mobile-Friendly Design**: Fully responsive layout for all devices
 - **Simple Interface**: Easy-to-navigate portal with clear information
@@ -43,17 +43,17 @@ Document Mitra is a simple, mobile-friendly portal that provides easy access to 
 3. **Income Certificate**
    - Application process
    - Required documents
-   - E-Mitra portal access
+   - Maharashtra Aaple Sarkar portal access
 
 4. **Caste Certificate**
    - Eligibility criteria
    - Document requirements
-   - District office contacts
+   - Maharashtra Aaple Sarkar portal access
 
 5. **Domicile/Residence Certificate**
    - Application steps
    - Document checklist
-   - E-District portal links
+   - Maharashtra Aaple Sarkar portal access
 
 ### 🚀 Getting Started
 
@@ -82,20 +82,19 @@ Document Mitra is a simple, mobile-friendly portal that provides easy access to 
 
 - [UIDAI (Aadhaar)](https://uidai.gov.in)
 - [TIN-NSDL (PAN)](https://www.tin-nsdl.com)
-- [E-Mitra (Rajasthan)](https://emitra.rajasthan.gov.in)
-- [E-District Portal](https://edigitalservices.rajasthan.gov.in)
+- [Maharashtra Aaple Sarkar](https://aaplesarkar.mahaonline.gov.in/)
 - [Income Tax e-Filing](https://www.incometaxindiaefiling.gov.in)
 
-### 📧 Contact
+### 📧 Contact & Information
 
-For support or queries:
-- Email: support@documentmitra.com
-- Helpline: 1800-XXX-XXXX (Toll Free)
-- Hours: Monday - Friday, 9 AM - 6 PM
+**Important Notice:** Document Mitra is an informational portal. For official help, use the concerned government portal.
+
+**For Maharashtra Services:**
+- Income Certificate, Caste Certificate, and Domicile/Residence Certificate are available through **Aaple Sarkar**: https://aaplesarkar.mahaonline.gov.in/
 
 ### ⚖️ Disclaimer
 
-This is an informational portal that links to official government services. Document Mitra is not affiliated with any government agency and does not process applications directly.
+This is an informational portal that links to official government services. Document Mitra is not affiliated with any government agency and does not process applications directly. No fake contact details are provided—always use the official government portals for services.
 
 ### 📝 License
 
